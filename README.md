@@ -33,7 +33,7 @@ It also allows filtering by:
 
 ---
 
-## 📊 Dashboard Snapshots
+## Dashboard Snapshots
 
 ### 1. Summary Page
 
