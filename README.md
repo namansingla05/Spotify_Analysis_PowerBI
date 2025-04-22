@@ -37,7 +37,7 @@ It also allows filtering by:
 
 ### 1. Summary Page
 
-![Summary Dashboard](./images/summary_dashboard.png)
+![Summary Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/Summary_DashBoard.png)
 
 - **Visualizes Key Metrics** such as:
   - Total Albums Played
@@ -64,7 +64,7 @@ It also allows filtering by:
 
 ### 2. Listening Pattern Page
 
-![Listening Pattern Dashboard](./images/pattern_dashboard.png)
+![Listening Pattern Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/Listening_Pattern_DashBoard.png)
 
 - **Heatmap Visualization**: Displays listening activity by **hour of the day** vs **day of the week**, enabling the identification of peak listening periods and trends.
 
@@ -94,7 +94,7 @@ It also allows filtering by:
 
 ### 3. Details Page
 
-![Details Dashboard](./images/detail_dashboard.png)
+![Details Dashboard](https://github.com/namansingla05/Spotify_Analysis_PowerBI/blob/main/GridView_DashBoard.png)
 
 #### Tabular View with Hierarchical Grouping
 
@@ -118,7 +118,7 @@ It also allows filtering by:
 
 ---
 
-## 📈 Data Insights
+## Data Insights
 
 - The user listens the most during evening hours on weekdays.
 - The majority of tracks are fully played, indicating strong listening engagement.
@@ -141,4 +141,4 @@ It also allows filtering by:
 
 ## Tags
 
-`Spotify` `Dashboard` `Data Visualization` `Power BI` `Music Analytics` `Listening Behavior`
+`Spotify` `Dashboard` `Data Visualization` `Power BI` `Music Analytics` `Listening Behavior` `Data Analytics`
